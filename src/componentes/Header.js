@@ -58,7 +58,7 @@ const Header = () =>{
                   <li className="u-nav-item">
                     <a
                       className="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90"
-                      href="Inicio.html#carousel_a3ba"
+                      href="./componentes/Home.jscarousel_a3ba"
                       data-page-id={12029180}
                       style={{ padding: "10px 20px" }}
                     >
@@ -68,7 +68,7 @@ const Header = () =>{
                   <li className="u-nav-item">
                     <a
                       className="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90"
-                      href="Inicio.html#carousel_efe9"
+                      href="./componentes/Home.jscarousel_efe9"
                       data-page-id={12029180}
                       style={{ padding: "10px 20px" }}
                     >
@@ -78,7 +78,7 @@ const Header = () =>{
                   <li className="u-nav-item">
                     <a
                       className="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90"
-                      href="Inicio.html#carousel_c97a"
+                      href="./componentes/Home.js#carousel_c97a"
                       data-page-id={12029180}
                       style={{ padding: "10px 20px" }}
                     >
@@ -88,7 +88,7 @@ const Header = () =>{
                   <li className="u-nav-item">
                     <a
                       className="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90"
-                      href="Inicio-sesion.html"
+                      href="./componentes/Iniciosesion.js"
                       style={{ padding: "10px 20px" }}
                     >
                       Inicio sesion
@@ -97,7 +97,7 @@ const Header = () =>{
                   <li className="u-nav-item">
                     <a
                       className="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90"
-                      href="Registrarse.html"
+                      href="./componentes/Registrarse.js"
                       style={{ padding: "10px 20px" }}
                     >
                       Registrarse
@@ -113,7 +113,7 @@ const Header = () =>{
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="Inicio.html"
+                          href="./componentes/Home.js"
                           style={{ padding: "10px 20px" }}
                         >
                           Inicio
@@ -122,7 +122,7 @@ const Header = () =>{
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="Inicio.html#carousel_a3ba"
+                          href="./componentes/Home.js#carousel_a3ba"
                           data-page-id={12029180}
                           style={{ padding: "10px 20px" }}
                         >
@@ -132,7 +132,7 @@ const Header = () =>{
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="Inicio.html#carousel_efe9"
+                          href="./componentes/Home.jscarousel_efe9"
                           data-page-id={12029180}
                           style={{ padding: "10px 20px" }}
                         >
@@ -152,7 +152,7 @@ const Header = () =>{
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="Inicio-sesion.html"
+                          href="./componentes/Iniciosesion.js"
                           style={{ padding: "10px 20px" }}
                         >
                           Inicio sesion
@@ -161,7 +161,7 @@ const Header = () =>{
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="Registrarse.html"
+                          href="./componentes/Registrarse.js"
                           style={{ padding: "10px 20px" }}
                         >
                           Registrarse
