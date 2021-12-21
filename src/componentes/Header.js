@@ -3,6 +3,8 @@ import React from "react";
 const Header = () =>{
     return(<>
         <header className="u-clearfix u-header u-header" id="sec-3001">
+           <link rel="stylesheet" href="%PUBLIC_URL%/nicepage.css" media="screen" />
+           <link rel="stylesheet" href="%PUBLIC_URL%/Inicio.css" media="screen" />
           <div className="u-clearfix u-sheet u-sheet-1">
             <a href="https://nicepage.com" className="u-image u-logo u-image-1">
               <img
