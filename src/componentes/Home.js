@@ -155,7 +155,7 @@ const Home = ()=> {
                 </div>
             </div>
             <a
-                href="Inicio.html"
+                href="./componentes/Home.js"
                 data-page-id={12029180}
                 className="u-align-center u-border-none u-btn u-button-style u-hover-palette-4-light-1 u-palette-4-base u-btn-2"
             >
@@ -284,7 +284,7 @@ const Home = ()=> {
                 </div>
             </div>
             <a
-                href="Inicio.html"
+                href="./componentes/Home.js"
                 data-page-id={12029180}
                 className="u-align-center u-border-none u-btn u-button-style u-hover-palette-4-light-1 u-palette-4-base u-btn-1"
             >
@@ -583,7 +583,7 @@ const Home = ()=> {
                 </div>
             </div>
             <a
-                href="Inicio.html"
+                href="./componentes/Home.js"
                 data-page-id={12029180}
                 className="u-align-center u-border-none u-btn u-button-style u-hover-palette-4-light-1 u-palette-4-base u-btn-1"
             >
